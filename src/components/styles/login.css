@@ -1,0 +1,40 @@
+.login-container {
+  max-width: 1920px;
+  position: relative;
+  margin: 0 auto;
+  padding: 2rem;
+  background-color: rgb(252, 254, 255);
+  display: grid;
+  place-items: center;
+}
+
+.login-wrapper {
+  width: 100%;
+  max-width: 600px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 90vh;
+  box-shadow: 0 0 3px 2px #eeeeee;
+}
+
+.loginBtn {
+  padding: 0.8em 2.5em;
+  border-radius: 5em;
+  border: none;
+  outline: none;
+  background-color: white;
+  border: 1px solid gray;
+  box-shadow: 0 0 3px 2px #eeeeee;
+  display: flex;
+  align-items: center;
+  cursor: pointer;
+}
+
+.loginBtn svg {
+  margin-right: 0.5rem;
+}
+
+.loginBtn:hover {
+  border: 1px solid black;
+}

@@ -1,0 +1,22 @@
+.main-section {
+  padding-top: 4em;
+}
+
+.main-header h1 {
+  font-size: 2.6rem;
+  color: #292929;
+  font-weight: 900;
+}
+
+.main-top-section {
+  padding-bottom: 0;
+}
+
+.main-top-section p {
+  padding-bottom: 1rem;
+  font-size: 0.95rem;
+}
+
+.mts p {
+  border-bottom: 1.5px solid black;
+}
